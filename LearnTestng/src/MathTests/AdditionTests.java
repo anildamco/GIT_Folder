@@ -13,6 +13,7 @@ public class AdditionTests {
 		int b =20;
 		int sum=30;
 		int c=40;
+		int d=60;
 		Assert.assertEquals(a+b, sum,"sum of two numbers passed");
 		
 	}
