@@ -1,4 +1,4 @@
-<suite name="testSuite">
+<suite name="testingSuite">
     <test name="testRun">
         <classes>
            <class name="Tests.TestClass"/>
